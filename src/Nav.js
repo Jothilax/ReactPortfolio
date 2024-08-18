@@ -6,17 +6,15 @@ import Project from './Projects';
 import BookConsultation from './BookConsultation';
 
 function Nav() {
-
     return(
         <>
       <nav>
-    
       <div class="row">
       <div class="head col-md-8 col-sm-8 col-xs-8">
       <Link to='/home'><h2>Jothi Lakshamanan</h2></Link>
       </div>
     <div class="proj col-md-2 col-sm-2 col-xs-2 ">
-    <Link to='/porject'><h5>Projects</h5></Link>
+    <Link to='/projects'><h5>Projects</h5></Link>
     </div>
     <div class="book col-md-2 col-sm-2 col-xs-2 ">
     <Link to='/book'><button>Book Consultation</button> </Link>

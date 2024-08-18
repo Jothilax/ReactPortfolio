@@ -12,7 +12,7 @@ import bikerental from './bikerental.png';
 import Breelewis2 from './BreeLewis-Still-2.jpg';
 
 
-const Home = () => {
+function Home(){
     return (
         <>
         <div>

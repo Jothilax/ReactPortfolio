@@ -1,0 +1,50 @@
+
+nav{
+    background-color: #bebebe;
+    min-width: 100%;
+    min-height: 15vh;
+    box-sizing: border-box;
+}
+nav a{
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a h2{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin-left: 10rem;
+    margin-top: 2rem;
+   
+}
+nav a h5{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    margin-left: 7rem;
+    margin-top: 2rem;
+    padding: 2vh;
+   
+}
+/* .book{
+    border: 2px solid black; 
+} */
+nav a button{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    text-decoration: none;
+    color:white;
+    border-radius: 2rem;
+    background-color: black;
+    width: 12rem;
+    height: 3rem;
+    margin-top: 2rem;
+  margin-left: 0%;
+}
+hr{
+   background-color: black;
+   margin: 0;
+}

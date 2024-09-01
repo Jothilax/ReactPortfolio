@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7907997a.css",
+    "main.js": "/static/js/main.41fb0f08.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/baby3.png": "/static/media/baby3.fd201d7cf8443279213e.png",
+    "static/media/bikerental.png": "/static/media/bikerental.749889ade1f4f2a90dff.png",
+    "static/media/babyshop.png": "/static/media/babyshop.2ffa9fdf2c3b233aced1.png",
+    "static/media/BreeLewis-Still-2.jpg": "/static/media/BreeLewis-Still-2.623ceb637b46c5530c95.jpg",
+    "static/media/bike3.png": "/static/media/bike3.29ee67bae4d77d4f5de0.png",
+    "static/media/pic3.jpg": "/static/media/pic3.12da8b0a94d25165d8c3.jpg",
+    "static/media/pic2.jpg": "/static/media/pic2.381b2f5dca2ac9a7e4e8.jpg",
+    "static/media/baby2.png": "/static/media/baby2.29a55704e2ce57cc13d2.png",
+    "static/media/baby4.png": "/static/media/baby4.cf11b2cd320ec5e940bd.png",
+    "static/media/bike4.png": "/static/media/bike4.ac9e3c643232080313e1.png",
+    "static/media/bike5.png": "/static/media/bike5.db580e400174b35b8263.png",
+    "static/media/bike2.png": "/static/media/bike2.9d342e805d62ec16bcf0.png",
+    "static/media/mypic.jpg": "/static/media/mypic.3a06356571b71b346aea.jpg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7907997a.css.map": "/static/css/main.7907997a.css.map",
+    "main.41fb0f08.js.map": "/static/js/main.41fb0f08.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7907997a.css",
+    "static/js/main.41fb0f08.js"
+  ]
+}

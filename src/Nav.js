@@ -11,13 +11,13 @@ function Nav() {
       <nav>
       <div class="row">
       <div class="head col-md-8 col-sm-8 col-xs-8">
-      <Link to='/home'><h2>Jothi Lakshamanan</h2></Link>
+      <Link to='/home'><h2><i>Jothi Lakshamanan</i></h2></Link>
       </div>
     <div class="proj col-md-2 col-sm-2 col-xs-2 ">
-    <Link to='/projects'><h5>Projects</h5></Link>
+    <Link to='/projects'><h5><i>Projects</i></h5></Link>
     </div>
     <div class="book col-md-2 col-sm-2 col-xs-2 ">
-    <Link to='/book'><button>Book Consultation</button> </Link>
+    <Link to='/book'><button>Contact</button> </Link>
     </div>
    </div>
   </nav>

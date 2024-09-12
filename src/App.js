@@ -12,6 +12,7 @@ function App() {
     <>
     <Nav />
     <Routes>
+    <Route path='/' element={<Home />}/>
       <Route path='/home' element={<Home />}/>
       <Route path='/projects' element={<Projects />}/>
       <Route path='/book' element={<BookConsultation />}/>

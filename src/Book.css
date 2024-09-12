@@ -1,12 +1,21 @@
 
 .sec7{
     width: 100%;
-    height: 120vh;
+    height: 100vh;
     background-color: aliceblue;
     color: black;
     padding-top: 10rem;
     padding-left: 20rem;
+    border: 2px solid balck;
+}
+.sec7content{
+    border: 2px solid balck;
+    width: 80%;
+    height: 80vh;
     
+}
+.sec7 h1{
+    text-align: center;
 }
 .sec7 form{
     background-color: antiquewhite;
@@ -14,6 +23,7 @@
     border-radius:2rem;
     width: 70%;
     height: 50vh;
+    margin-left:9rem;
    
 }
 .sec7 label{

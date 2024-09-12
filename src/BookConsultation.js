@@ -4,6 +4,9 @@ import './Book.css';
 function BookConsultation(){
     return (
         <div className='sec7'>
+            <div className='sec7content'>
+
+           
         <h1>Subscribe for Exclusive Updates </h1>
         <form class="row g-3">
             <div className='formcontent'>
@@ -36,6 +39,7 @@ function BookConsultation(){
             </div>
       
     </form>
+    </div>
         </div>
     );
 }

@@ -18,7 +18,7 @@ function Project() {
            <h2 className='projecth2'>Baby Shop</h2>
            <div className='projectcontent'>
     <p className='projectp'>Baby Bootique is the shopping store for kids & baby products. Baby care products are available in Baby Bootique at Coimbatore, Tamilnadu. Buy baby care products toys, diapers, clothes, footwear, strollers, car seats, furniture and more with care and love. We are thrilled to provide the current generation of modern Indian parents with the opportunity to access the best in pregnancy, infant-care and mother-care products at an affordable price.</p>
-
+<h6>Link : <a href='https://jothilax.github.io/Babyshop/'>https://jothilax.github.io/Babyshop/</a></h6>
     <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active">
@@ -51,8 +51,8 @@ function Project() {
 <h2 className='projecth2'>Bike Rental System</h2>
 <div className='projectcontent'>
 <p className='projectp'>Bike rental apps come equipped with a range of features that make the rental process convenient and user-friendly. These features are designed to enhance the user experience and ensure smooth and seamless bike rental transactions. One of the key features of bike rental apps is real-time bike availability. Users can check the availability of bikes near their location, as well as reserve or book a bike in advance. This ensures that users have access to bikes whenever they need them, without having to physically check bike rental stations for availability.</p>
-
-           <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
+<h6>Link : <a href='https://wonderful-creponne-76a75e.netlify.app/'>https://wonderful-creponne-76a75e.netlify.app/</a></h6>
+  <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active">
       <img src={bikerental} alt="bikerental" className="d-block w-100" />
@@ -83,9 +83,9 @@ function Project() {
 
            {/* Project 3 */}
 
-           <h2 className='projecth2'>Service CRM</h2>
+           <h2 className='projecth2'>Online Food Ordering System</h2>
            <div className='projectcontent'>
-           <p className='projectp'>Customer relationship management (CRM) is a system for managing all of your company’s interactions with current and potential customers. The goal is simple: improve relationships to grow your business. CRM technology helps companies stay connected to customers, streamline processes, and improve profitability. When people talk about CRM, they’re usually referring to a CRM system: software that helps track each interaction you have with a prospect or customer. That can include sales calls, customer service interactions, marketing emails, and more.</p>
+           <p className='projectp'>Online Food Ordering System project is aimed at developing a complete online food ordering system for use in the food service industry which will allow the restaurants to quickly and easily manage an online menu which customer can browse and use to place orders with just a few clicks.</p>
 
     {/* <div id="carouselExampleControls" className="carousel slide" data-ride="carousel">
   <div className="carousel-inner">

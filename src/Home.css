@@ -31,14 +31,17 @@ h1{
     margin: 5%;
 }
 button{
-    background-color: aquamarine;
-    color: black;
+    background-color: rgb(13, 3, 59);
+    color: white;
     width: 20rem;
     height: 5rem;
     border-radius: 5rem;
     border: 2px solid black;
     margin-left: 20%;
-    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
 }
 .sec2{
     max-width: 100%;
@@ -168,34 +171,58 @@ button{
 }
 .sec6{
     width: 100%;
-    height: 100vh; 
-    display: flex;
-    flex-direction: row;
-    background-color: rgb(236, 183, 224);
+    height: 150vh; 
+    background-color: rgb(127, 90, 187);
     color: black;
-   
+    padding-top: 10vh;
+    
 }
-.sec6-img img{
-    width: 100%;
-    height: 100vh; 
+.sec6 h1{
+    text-align: center;
+    
 }
 .sec6-content{
+    width: 90%;
+    height: 50vh; 
+    margin: 5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    /* border: 2px solid black; */
+
+}
+.sec6 h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration:underline;
+}
+
+.frontend{
+    margin: 2.5rem;
     width: 50%;
-    height: 80vh; 
-    margin-top: 5rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    height: 40vh;
+    /* border: 2px solid black; */
+
 }
-.sec6-content h1{
-    margin: 5rem 5rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+.backend{
+    margin: 2.5rem;
+    width: 50%;
+    height: 40vh;
+    /* border: 2px solid black; */
+    
 }
-.sec6-content p{
-    margin: 5rem 5rem;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+.database{
+    /* text-align: center; */
+    width: 40%;
+    height: 30vh;
+    /* border: 2px solid black; */
+    margin-top: 1rem;
+    margin-left: 30%;
 }
-.sec7{
+/* .sec7{
     width: 100%;
     height: 120vh;
     background-color: aliceblue;
@@ -204,12 +231,64 @@ button{
     padding-left: 20rem;
     
 }
+.sec7h1{
+    text-align: center;
+}
 .sec7 form{
     background-color: antiquewhite;
     border: 2px solid black;
     border-radius:2rem;
     width: 70%;
     height: 50vh;
+   
+}
+.sec7 label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+
+}
+.btn{
+width: 40%;
+height: 7vh;
+border-radius: 2rem;
+margin-left: 7rem;
+}
+.formcontent{
+    width: 100%;
+    height: 50vh;
+    margin-left: 10rem;
+    margin-top: 3rem;
+}
+form-control{
+    border-radius: 5rem;
+} */
+
+
+.sec7{
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+    color: black;
+    padding-top: 10rem;
+    padding-left: 20rem;
+    border: 2px solid balck;
+}
+.sec7content{
+    border: 2px solid balck;
+    width: 80%;
+    height: 80vh;
+    
+}
+.sec7 h1{
+    text-align: center;
+}
+.sec7 form{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    border-radius:2rem;
+    width: 70%;
+    height: 50vh;
+    margin-left:9rem;
    
 }
 .sec7 label{
